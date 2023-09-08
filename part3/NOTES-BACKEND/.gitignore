@@ -3,4 +3,3 @@ fly.toml
 Dockerfile
 .dockerignore
 build/
-package-lock.json
